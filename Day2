@@ -1,0 +1,9 @@
+ String f;
+        int m =scan.nextInt();
+        double w=scan.nextDouble();
+        f=scan.next();
+        f+=scan.nextLine();
+        System.out.println(i+m);
+        System.out.println(d+w);
+        System.out.println(s+f);
+		
