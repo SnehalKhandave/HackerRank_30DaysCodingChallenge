@@ -1,0 +1,12 @@
+
+public class solution 
+{
+    public static void main (String srgs[]){
+        String s;
+        Scanner sc = new Scanner(System.in);
+        s=sc.nextLine();
+        System.out.println("Hello, World.");
+        System.out.println(s);
+        
+    }
+}
